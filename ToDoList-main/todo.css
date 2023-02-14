@@ -1,0 +1,20 @@
+.btn{
+    background-color: rgb(5, 5, 116);
+    color:white
+
+
+}
+body{
+    margin:auto;
+    align-items: center;
+    text-align: center;
+    background-image: url(picture.jpg);
+}
+h1{
+    color:black;
+    font-size: 60px;
+}
+.input-groupmb-3{
+    size: 10%;
+
+}

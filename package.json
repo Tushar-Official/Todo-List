@@ -1,0 +1,11 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Todo.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "tushar",
+  "license": "ISC"
+}
